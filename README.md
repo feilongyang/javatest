@@ -1,3 +1,3 @@
 # javatest
-java练习的例子
-laiziubuntu de tinajia
+git example
+from ubuntu on mac
